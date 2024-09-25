@@ -1,4 +1,6 @@
 __Hello, There!__
+
+- I'm Seunghyeon Ji
 - Working as a Server Engineer
 - Have studied programming for 10 years since 2014
 
