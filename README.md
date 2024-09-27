@@ -19,4 +19,5 @@ __Contributions__
 __Articles__
 
 - [protected 메서드에서의 @Transactional](https://jiseunghyeon.com/protected-transactional)
+- [M1에서 GraalVM으로 네이티브 이미지 만들기](https://jiseunghyeon.com/graalvm-aot)
 
