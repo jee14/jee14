@@ -10,12 +10,6 @@ __Tools I work with :)__
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%23ED8B0.svg?style=for-the-badge&color=6DB33F&logo=springboot&logoColor=FFFFFF) 
 ![AWS](https://img.shields.io/badge/AWS-%23ED8B0.svg?style=for-the-badge&color=232F3E&logo=amazonwebservices&logoColor=FFFFFF) 
 
-
-__Contributions__
-
-- [Spring] : [PR #32157](https://github.com/spring-projects/spring-framework/pull/32157) - Adhere to project code style in ResponseCookie
-- [Spring Petclinic]: [PR #1274](https://github.com/spring-projects/spring-petclinic/pull/1274) - Following coding conventions
-
 __Articles__
 
 - [protected 메서드에서의 @Transactional](https://jiseunghyeon.com/protected-transactional)
