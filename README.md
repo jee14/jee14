@@ -14,7 +14,6 @@ __Contributions__
 
 - [Spring AI] : [PR #1648](https://github.com/spring-projects/spring-ai/pull/1648) - Modified the code to ensure the test code passes
 - [Spring] : [PR #32157](https://github.com/spring-projects/spring-framework/pull/32157) - Adhere to project code style in ResponseCookie
-- [Spring Petclinic]: [PR #1274](https://github.com/spring-projects/spring-petclinic/pull/1274) - Following coding conventions
 
 __Articles__
 
