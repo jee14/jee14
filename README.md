@@ -13,8 +13,8 @@ I'm a software engineer with 13+ years of programming.
 
 #### :octocat: Contributions
 **[Mastra](https://github.com/mastra-ai/mastra)**
-- [#20445](https://github.com/mastra-ai/mastra/pull/20445) `fix(core)` Stop `RegexFilterProcessor`'s redact strategy from discarding its matches
-- [#20293](https://github.com/mastra-ai/mastra/pull/20293) `feat(evals)` Add summarization LLM scorer
+- [#20445](https://github.com/mastra-ai/mastra/pull/20445) Stop `RegexFilterProcessor`'s redact strategy from discarding its matches
+- [#20293](https://github.com/mastra-ai/mastra/pull/20293) Add summarization LLM scorer
 - [#20604](https://github.com/mastra-ai/mastra/issues/20604) Found a cross-resource data leak in `listMessages` (fixed in [#20984](https://github.com/mastra-ai/mastra/pull/20984))
 - [#20610](https://github.com/mastra-ai/mastra/issues/20610) Reported that `filterIncompleteToolCalls: false` caused provider 400s (fixed in [#20636](https://github.com/mastra-ai/mastra/pull/20636))
 - [#19731](https://github.com/mastra-ai/mastra/issues/19731) Proposed a context-recall scorer to complement context-precision (shipped in [#19733](https://github.com/mastra-ai/mastra/pull/19733))
