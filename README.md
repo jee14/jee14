@@ -1,5 +1,5 @@
 #### 👋🏿 Hi, There!
-I'm a software engineer with 13+ years of programming.
+I'm a software engineer with 13 years of programming.
 
 #### 👩‍🚒 Professional Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&color=232F3E&logoColor=FFFFFF)
